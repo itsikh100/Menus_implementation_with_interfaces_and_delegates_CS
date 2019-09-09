@@ -1,0 +1,6 @@
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

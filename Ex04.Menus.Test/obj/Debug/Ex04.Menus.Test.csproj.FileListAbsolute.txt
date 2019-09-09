@@ -1,0 +1,13 @@
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\איציק\source\repos\B19 Ex04 ItsikHarari 201016151 ZahiPinhas 204185490\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
